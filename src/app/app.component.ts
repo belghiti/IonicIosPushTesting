@@ -22,7 +22,7 @@ export class MyApp {
         ios: {
             alert: 'true',
             badge: true,
-            sound: 'false'
+            sound: 'true'
         }
      };
      
